@@ -1,6 +1,6 @@
-nama = "layli rahmania yuwono"
-hobi = ["makan" , "tidur", "nonton"]
-sekolah = {
+nama="layli rahmania yuwono"
+hobi=["makan" , "tidur", "nonton"]
+sekolah={
     "SMA" : "Al Irsyad",
     "Uni" : "ITB"
 }
