@@ -1,9 +1,5 @@
-nama="layli rahmania yuwono"
-hobi=["makan" , "tidur", "nonton"]
-sekolah={
-    "SMA" : "Al Irsyad",
-    "Uni" : "ITB"
-}
+var = "layli rahmania"
+
 
 def panggil(tempat):
 
